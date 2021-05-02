@@ -6,7 +6,7 @@ Am a Software Engineer in the making.
 Stack: Java, C#, Javascript, Python
 
 🌱 I’m currently learning:
-  Mobile Development - Flutter, Firebase
+  Mobile Development - Flutter, Dart
   
   Web Development - React JS
   
