@@ -8,7 +8,7 @@ Stack: Java, C#, Javascript, Python
 🌱 I’m currently learning:
   Mobile Development - Flutter, Dart
   
-  Web Development - React JS
+  Web Development - Ruby on Rails, React JS
   
 👯 I’m looking to collaborate on open source projects, startups e.t.c
 
