@@ -9,10 +9,12 @@ My name is Keneth Kogi, I'm a Software Developer in the making. I'm from Nairobi
   <li><b>Web app development: </b>.NET, NodeJS, ExpressJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
   <li><b>Mobile app development: </b>Java, Kotlin, Flutter</li>
   <li><b>Back-end: </b>MongoDB, Postgres, MySQL</li>
+  <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
 </ul>
 <b>Currently Learning</b>📘
 <ul>
-  <li>Ruby on Rails</li>
+  <li>Ruby</li>
+  <li>Rails</li>
 </ul>
 
 <!-- Actual text -->
