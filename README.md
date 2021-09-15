@@ -13,7 +13,6 @@ My name is Keneth Kogi, I'm a Software Developer in the making. I'm from Nairobi
 </ul>
 <b>Currently Learning</b>📘
 <ul>
-  <li>Linux</li>
   <li>LAMP</li>
 </ul>
 
