@@ -7,7 +7,7 @@ My name is Keneth Kogi, I'm a Software Developer in the making. I'm from Nairobi
 <ul>
   <li><b>Languages: </b> Java, C#, Javascript/Typescript, Python, Dart</li>
   <li><b>Web app development: </b>.NET, NodeJS, ExpressJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
-  <li><b>Mobile app development: </b>Java, Kotlin, Flutter</li>
+  <li><b>Mobile app development: </b>Java, Flutter</li>
   <li><b>Back-end: </b>MongoDB, Postgres, MySQL</li>
   <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
 </ul>
