@@ -14,6 +14,7 @@ My name is Keneth Kogi, I'm a Software Developer in the making. I'm from Nairobi
 <b>Currently Learning</b>📘
 <ul>
   <li>LAMP</li>
+  <li>Objective C</li>
 </ul>
 
 <!-- Actual text -->
