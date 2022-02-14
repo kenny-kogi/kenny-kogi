@@ -1,7 +1,7 @@
 ### Hi there 👋 
 Welcome to my world.🌎
 
-My name is Keneth Kogi, I'm a Software Developer in the making. I'm from Nairobi, Kenya🇰🇪. I'm also a Computer Science Student at Africa Nazarene University. My goal is to develop solutions to modern day problems through technology
+My name is Keneth Kogi, I'm a Software Engineer in the making. I'm from Nairobi, Kenya🇰🇪. I'm also a Computer Science Student at Africa Nazarene University. My goal is to develop solutions to modern day problems through technology
 
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
