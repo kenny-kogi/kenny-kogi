@@ -6,7 +6,7 @@ My name is Keneth Kogi, I'm a Software Engineer in the making. I'm from Nairobi,
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
   <li><b>Languages: </b> Java, C#, Javascript/Typescript, Python, Ruby, Dart</li>
-  <li><b>Web app development: </b>.NET, Ruby on Rails, NodeJS, ExpressJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
+  <li><b>Web app development: </b>.NET, Ruby on Rails, NodeJS, ExpressJS, Django, NextJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
   <li><b>Mobile app development: </b>Java, Flutter</li>
   <li><b>Back-end: </b>MongoDB, Postgres, MySQL</li>
   <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
