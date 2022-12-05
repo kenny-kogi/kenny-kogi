@@ -1,20 +1,19 @@
 ### Hi there 👋 
 Welcome to my world.🌎
 
-My name is Keneth Kogi, I'm a Software Engineer in the making. I'm from Nairobi, Kenya🇰🇪. I'm also a final year Computer Science Student at Africa Nazarene University. My goal is to develop solutions to modern day problems through technology
+I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪.
 
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
-  <li><b>Languages: </b> Java, C#, Javascript/Typescript, Python, Ruby, Dart</li>
-  <li><b>Web app development: </b>.NET, Ruby on Rails, NodeJS, ExpressJS, Django, NextJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
+  <li><b>Languages: </b> Java, Kotlin, C#, Javascript/Typescript, Python, Ruby, Dart</li>
+  <li><b>Web app development: </b>SpringBoot, Quarkus, Django, Ruby on Rails, NodeJS, ExpressJS, NextJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
   <li><b>Mobile app development: </b>Java, Flutter</li>
   <li><b>Back-end: </b>MongoDB, Postgres, MySQL</li>
   <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
 </ul>
 <b>Currently Learning</b>📘
 <ul>
-  <li>LAMP</li>
-  <li>Objective C</li>
+  <li>DevOps</li>
 </ul>
 
 <!-- Actual text -->
