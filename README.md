@@ -1,22 +1,28 @@
 ### Hi there 👋 
 Welcome to my world.🌎
 
-I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪.
+I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪 with experience building web applications using a variety of technologies, including:
 
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
-  <li><b>Languages: </b> Java, Kotlin, C#, Javascript/Typescript, Python, Ruby, Dart</li>
+  <li><b>Languages: </b> Java, Kotlin, C#, Javascript/Typescript, Python, Ruby</li>
   <li><b>Web app development: </b>SpringBoot, Quarkus, Django, Ruby on Rails, NodeJS, ExpressJS, NextJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
-  <li><b>Mobile app development: </b>Java, Flutter</li>
-  <li><b>Back-end: </b>MongoDB, Postgres, MySQL</li>
+  <li><b>Mobile app development: </b>Dart, Flutter</li>
+  <li><b>Databases: </b>MongoDB, Postgres, MySQL</li>
   <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
 </ul>
-<b>Currently Learning</b>📘
-<ul>
-  <li>DevOps</li>
-</ul>
 
+I'm passionate about building high-quality, scalable, and maintainable web applications, and I'm always looking to learn new technologies and techniques to improve my skills.
+
+<b>Skills</b>
+<ul>
+  <li>Fullstack development (front-end and back-end)</li>
+  <li>Proficient in modern web development technologies and frameworks</li>
+  <li>Experience with agile development methodologies</li>
+  <li>Strong problem-solving and analytical skills</li>
+</ul>
 <!-- Actual text -->
+Feel free to contact me through my LinkedIn or email to discuss potential opportunities or to just chat about software development!
 
 You can find me on [![Twitter][1.2]][1]
 
