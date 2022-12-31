@@ -26,6 +26,7 @@ I'm passionate about building high-quality, scalable, and maintainable web appli
 <ul>
   <li>[Building Microservices with Quarkus and Kotlin](https://medium.com/@kogii/building-microservices-with-quarkus-and-kotlin-27af0cae2fd5)</li>
   <li>[Upload Files To Microsoft Azure Blob Storage using Quarkus](https://medium.com/@kogii/upload-files-to-microsoft-azure-blob-storage-using-quarkus-1edfc08c490a)</li>
+  [try](https://medium.com/@kogii/upload-files-to-microsoft-azure-blob-storage-using-quarkus-1edfc08c490a)
 </ul>
 
 <!-- Actual text -->
