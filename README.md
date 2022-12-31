@@ -26,11 +26,7 @@ I'm passionate about building high-quality, scalable, and maintainable web appli
 <ul>
   <li>[Building Microservices with Quarkus and Kotlin](https://medium.com/@kogii/building-microservices-with-quarkus-and-kotlin-27af0cae2fd5)</li>
   <li>[Upload Files To Microsoft Azure Blob Storage using Quarkus](https://medium.com/@kogii/upload-files-to-microsoft-azure-blob-storage-using-quarkus-1edfc08c490a)</li>
-  <li>[How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)</li>
 </ul>
-  ![How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-
-  [How I built one of the top 20 most used Github Actions]: https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/
 <!-- Actual text -->
 Feel free to contact me through my LinkedIn or email to discuss potential opportunities or to just chat about software development!
 
