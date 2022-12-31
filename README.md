@@ -1,7 +1,7 @@
 ### Hi there 👋 
 Welcome to my world.🌎
 
-I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪 with experience building web applications using a variety of technologies, including:
+I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪 with experience building software applications using a variety of technologies, including:
 
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
