@@ -6,7 +6,7 @@ I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪 with experience
 <b>My Stack</b>🔨🧰🛠️⛏🔧
 <ul>
   <li><b>Languages: </b> Java, Kotlin, C#, Javascript/Typescript, Python, Ruby</li>
-  <li><b>Web app development: </b>SpringBoot, Quarkus, Django, Ruby on Rails, NodeJS, ExpressJS, NextJS, ReactJS, Graphql, HTML, CSS, saas, less</li>
+  <li><b>Web app development: </b>SpringBoot, Quarkus, Django, Ruby on Rails, NodeJS, ExpressJS, NextJS, ReactJS, Graphql, HTML, CSS, Tailwind CSS, saas, less</li>
   <li><b>Mobile app development: </b>Dart, Flutter</li>
   <li><b>Databases: </b>MongoDB, Postgres, MySQL</li>
   <li><b>Data Analysis: </b>Numpy, Pandas, Matplotlib</li>
