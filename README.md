@@ -9,7 +9,7 @@ I'm Keneth Kogi, a Software Engineer from Nairobi, Kenya🇰🇪 with experience
   <li><b>Web app development: </b>SpringBoot, Quarkus, Django, Ruby on Rails, NodeJS, ExpressJS, NextJS, ReactJS, Graphql, HTML, CSS, Tailwind CSS, saas, less</li>
   <li><b>Mobile app development: </b>Dart, Flutter</li>
   <li><b>Databases: </b>MongoDB, Postgres, MySQL</li>
-  <li><b>DevOps: </b>AWS, Terraform, Kubernetes, Docker, Jenkins, Istio</li>
+  <li><b>DevOps: </b>AWS, Terraform, Kubernetes, Docker, Jenkins, Istio, ArgoCD</li>
 </ul>
 
 I'm passionate about building high-quality, scalable, and maintainable web applications, and I'm always looking to learn new technologies and techniques to improve my skills.
